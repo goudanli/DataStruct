@@ -2,7 +2,7 @@
 
 *教程  https://github.com/goudanli/write-a-hash-table*
 
-##说明
+## 说明
 
 1. hash_table以开放地址法解决冲突，以双重hash重新改计算index
 2. hash_table支持自动扩容和缩容
